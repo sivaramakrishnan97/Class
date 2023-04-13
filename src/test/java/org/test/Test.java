@@ -13,5 +13,15 @@ public class Test {
 	private void Telugu() {
 		System.out.println("telugu");
 	}
+	private void India() {
+		System.out.println("india");
+	}
+	private void USA() {
+		System.out.println("usa");
+	}
+	private void Korea() {
+		System.out.println("korea");
+	}
+	
 
 }
